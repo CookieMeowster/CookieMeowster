@@ -1,6 +1,6 @@
 # Hi, I'm Heidi
 
-Cybersecurity student at MSJC. Career changer (BA in Creative Writing → Security).
+Cybersecurity student at MSJC. (BA in Creative Writing → Security).
 
 Currently working through:
 - TryHackMe: Incident Responder path
