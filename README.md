@@ -8,5 +8,5 @@ Currently working through:
 - Networking fundamentals (CCNA 1)
 
 ## What's here
-- [tryhackme-writeups](https://github.com/CookieMeowster/tryhackme-writeups) – Notes from my TryHackMe rooms
+- [tryhackme-writeups](https://github.com/CookieMeowster/tryhackme-writeups) – TryHackMe room writeups (free track)   
 - [python-security-scripts](https://github.com/CookieMeowster/python-security-scripts) - Small scripts I'm building as I learn Python for security   
